@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Account>
+@{
+    ViewData["Title"] = "ViewAll";
+}
+
+<h1>ViewAll</h1>
+
+
+<a asp-controller="Account" asp-action="AddAccount">Add New Account</a>
+<table class="table table-striped">
+    <tr>
+        <th>ID</th>
+        <th>Customer ID</th>
+        <th>Account Type</th>
+        <th>Balance</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (Account a in Model)
+    {
+        <tr>   
+            <td> @a.ID</td>
+            <td> @a.Customer_ID</td>
+            <td> @a.Account_Type</td>
+            <td> @a.Balance</td>
+
+            <td>
+                @Html.ActionLink("Deposit", "Deposit  ", new { id = @a.Customer_ID})
+                @Html.ActionLink("Withdraw", "Withdraw  ", new { id = @a.Customer_ID })
+                @Html.ActionLink("Transfer", "Transfer  ", new { id = @a.Customer_ID })
+            </td>
+        </tr>
+
+    }
+</table>
+

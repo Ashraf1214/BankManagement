@@ -1,0 +1,117 @@
+﻿@model ViewAccountDetailsVM
+@{
+    ViewData["Title"] = "Search";
+}
+
+
+<div></div>
+
+<h2>Search for Account Based on either Customer ID or Name</h2>
+
+<div class="alert-danger"><p>@ViewBag.Error</p></div>
+@*@using (Html.BeginForm("Inputs", "Account", FormMethod.Post, new { }))
+    {*@
+
+<form asp-action="Inputs">
+    <table>
+    <tr>
+        @*@Html.LabelFor(a => a.CustomerID)
+            @Html.TextBoxFor(a => a.CustomerID)*@
+        <td>
+            <label asp-for="CustomerID"></label>
+        </td>
+        <td>
+            <input type="number" asp-for="CustomerID" placeholder="Enter Customer ID" />
+            <span asp-validation-for="CustomerID" class="text-danger"></span>
+        </td>
+    </tr>
+
+    <tr>
+        @*@Html.LabelFor(a => a.Name)
+            @Html.TextBoxFor(a => a.Name)*@
+        <td>
+        <label asp-for="Name"></label>
+            </td>
+        <td>
+        <input type="text" asp-for="Name" placeholder="Enter Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+            </td>
+    </tr>
+
+    <tr>
+        <td>
+            <input type="Submit" value="Search" class="btn btn-info" />
+        </td>
+        
+    </tr>
+    @*}*@
+        </table>
+</form>
+<br />
+<br />
+<br />
+
+<h2>Search for Account Based on either Accound ID or Account Type</h2>
+
+
+    <form asp-action="Inputs">
+        <table>
+
+
+
+            <tr>
+                @*@Html.LabelFor(a => a.CustomerID)
+            @Html.TextBoxFor(a => a.CustomerID)*@
+                <td>
+                    <label asp-for="AccountID"></label>
+                </td>
+                <td>
+                    <input type="number" asp-for="AccountID" placeholder="Enter Account ID" />
+                    <span asp-validation-for="AccountID" class="text-danger"></span>
+
+                </td>
+
+            </tr>
+
+            <tr>
+                @*@Html.LabelFor(a => a.Name)
+            @Html.TextBoxFor(a => a.Name)*@
+                <td>
+                    <label asp-for="AccountType"></label>
+                </td>
+                <td>
+                    <input type="text" asp-for="AccountType" placeholder="Enter Account Type" />
+                    <span asp-validation-for="AccountType" class="text-danger"></span>
+
+                </td>
+
+            </tr>
+
+            <tr>
+                <td>
+                    <input type="Submit" value="Search" class="btn btn-info" />
+                </td>
+
+            </tr>
+            @*}*@
+        </table>
+    </form>
+
+
+    @*@using (Html.BeginForm("Inputs", "Account", FormMethod.Post, new { }))
+    {
+        <div>
+            @Html.LabelFor(a => a.AccountID)
+            @Html.TextBoxFor(a => a.AccountID)
+        </div>
+
+        <div>
+            @Html.LabelFor(a => a.AccountType)
+            @Html.TextBoxFor(a => a.AccountType)
+        </div>
+
+        <div>
+            <input type="Submit" value="Search" />
+        </div>
+    }*@
+

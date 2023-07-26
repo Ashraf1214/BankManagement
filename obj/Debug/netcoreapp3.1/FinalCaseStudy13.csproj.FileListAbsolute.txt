@@ -1,0 +1,392 @@
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\FinalCaseStudy13.StaticWebAssets.xml
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\FinalCaseStudy13.exe
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\FinalCaseStudy13.deps.json
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\FinalCaseStudy13.runtimeconfig.json
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\FinalCaseStudy13.runtimeconfig.dev.json
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\FinalCaseStudy13.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\FinalCaseStudy13.pdb
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\FinalCaseStudy13.Views.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\FinalCaseStudy13.Views.pdb
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.csprojAssemblyReference.cache
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.AssemblyInfoInputs.cache
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.AssemblyInfo.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.RazorAssemblyInfo.cache
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.RazorAssemblyInfo.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.TagHelpers.input.cache
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.TagHelpers.output.cache
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.RazorCoreGenerate.cache
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.RazorTargetAssemblyInfo.cache
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.RazorTargetAssemblyInfo.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.Views.pdb
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.csproj.CopyComplete
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\staticwebassets\FinalCaseStudy13.StaticWebAssets.Manifest.cache
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\staticwebassets\FinalCaseStudy13.StaticWebAssets.xml
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.pdb
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.genruntimeconfig.cache
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\ViewAccounts.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Customer\RegisterCustomer.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\Deposit.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ViewCustomers.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\AddAccount.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\ViewAll.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Customer\AddCustomer.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\CustomerAcct.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Customer\DeleteCustomer.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Customer\UpdateCustomer.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\Withdraw.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\Transfer.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\CID.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\DeleteAccount.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\ViewModel2.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\addTransaction.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.App_GlobalResources.IntValidator_Overload.resources
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.csproj.GenerateResource.cache
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\Inputs.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\Search.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\ViewStatementbyAccID.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\SearchSbyID.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Select.Html.dep
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Select.HtmlToPdf.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\viewAccountDetails.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\result.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\ViewCustomerAccounts.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\ViewTransactions.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\viewAsCashier.cshtml.g.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.csproj.CoreCompileInputs.cache
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Users\2101542\source\repos\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Search.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Select.Html.dep
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\appsettings.json
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\FinalCaseStudy13.StaticWebAssets.xml
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\FinalCaseStudy13.exe
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\FinalCaseStudy13.deps.json
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\FinalCaseStudy13.runtimeconfig.json
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\FinalCaseStudy13.runtimeconfig.dev.json
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\FinalCaseStudy13.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\FinalCaseStudy13.pdb
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\FinalCaseStudy13.Views.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\FinalCaseStudy13.Views.pdb
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\Select.HtmlToPdf.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\X.PagedList.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.csproj.AssemblyReference.cache
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.App_GlobalResources.IntValidator_Overload.resources
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.csproj.GenerateResource.cache
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.GeneratedMSBuildEditorConfig.editorconfig
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.AssemblyInfoInputs.cache
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.AssemblyInfo.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.csproj.CoreCompileInputs.cache
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.MvcApplicationPartsAssemblyInfo.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.MvcApplicationPartsAssemblyInfo.cache
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.RazorAssemblyInfo.cache
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.RazorAssemblyInfo.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\staticwebassets\FinalCaseStudy13.StaticWebAssets.Manifest.cache
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\staticwebassets\FinalCaseStudy13.StaticWebAssets.xml
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.TagHelpers.input.cache
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.TagHelpers.output.cache
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.RazorCoreGenerate.cache
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Customer\RegisterCustomer.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\AddAccount.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\AddTransaction.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\CID.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\CustomerAcct.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\DeleteAccount.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\Deposit.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\Inputs.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\result.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\Search.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\SearchSbyID.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\Transfer.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\viewAccountDetails.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\ViewAccounts.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\ViewAll.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\viewAsCashier.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\ViewCustomerAccounts.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\ViewModel2.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\ViewStatementbyAccID.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\ViewTransactions.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Account\Withdraw.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Customer\AddCustomer.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Customer\DeleteCustomer.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Search.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Customer\UpdateCustomer.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ViewCustomers.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.RazorTargetAssemblyInfo.cache
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.RazorTargetAssemblyInfo.cs
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.Views.pdb
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.csproj.CopyComplete
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.dll
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.pdb
+D:\TATA\Training sessions\Assignments\CaseStudy13\FinalCaseStudy13\FinalCaseStudy13\obj\Debug\netcoreapp3.1\FinalCaseStudy13.genruntimeconfig.cache

@@ -1,0 +1,94 @@
+﻿@model Customer
+@{
+    ViewData["Title"] = "Search";
+}
+
+    <style>
+        input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+    </style>
+
+<h2>Search for Customer Based on either Customer ID or SSN</h2>
+<br />
+<div class="alert-danger"><p>@ViewBag.Error</p></div>
+
+@*@using (Html.BeginForm("Search", "Customer", FormMethod.Post, new { }))
+{
+    <div>
+        @Html.LabelFor(a => a.ID)
+        @Html.TextBoxFor(a => a.ID)
+    </div>
+
+    <div>
+        @Html.LabelFor(a => a.SSN)
+        @Html.TextBoxFor(a => a.SSN)
+    </div>
+
+    <div>
+        <input type="Submit" value="Search" />
+    </div>
+    <div></div>
+}*@
+
+<form asp-action="Search">
+    <table>
+        <tr>
+            <td>
+                <label asp-for="ID"></label>
+            </td>
+            <td>
+                <input type="number" asp-for="ID" placeholder="Enter Customer ID" />
+                <span asp-validation-for="ID"  class="text-danger"></span>
+            </td>
+        </tr>
+
+
+<tr>
+    <td>
+
+        <label asp-for="SSN"></label>
+    </td>
+    <td>
+        <input type="number" asp-for="SSN" placeholder="Enter SSN" />
+        <span asp-validation-for="SSN"  class="text-danger"></span>
+
+
+    </td>
+</tr>
+        <tr>
+            <td>
+            <input type="submit" value="Search" class="btn btn-info" />
+            </td>
+        </tr>
+    </table>
+</form>
+
+<br />
+
+@if (Model != null)
+{
+    <table class="table table-striped">
+        <tr>
+            <th>SSN </th>
+            <th>Customer ID</th>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Age</th>
+        </tr> 
+            <tr>
+                <td> @Model.SSN</td>
+                <td> @Model.ID</td>
+                <td> @Model.Name</td>
+                <td> @Model.Address_1
+                     @Model.Address_2
+                     @Model.City
+                     @Model.State</td>
+                <td> @Model.Age</td>
+            </tr>
+    </table>
+
+}
+

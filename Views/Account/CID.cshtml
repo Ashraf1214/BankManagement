@@ -1,0 +1,43 @@
+﻿@using FinalCaseStudy13.Models
+@model IEnumerable<ViewAccountDetailsVM>
+@{
+    ViewData["Title"] = "CID";
+}
+
+<h1>Accounts</h1>
+
+
+@if (Model != null)
+{
+<table class="table table-striped">
+    <tr>
+        <th>Account ID</th>
+        <th>Customer ID</th>
+        <th>Account Type</th>
+        <th>Balance</th>
+        <th>Status</th>
+        <th>Last Updated</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (ViewAccountDetailsVM a in Model)
+    {
+        @if (a.Status != "Soft Delete")
+        {
+            <tr>
+                <td> @a.AccountID</td>
+                <td> @a.CustomerID</td>
+                <td> @a.AccountType</td>
+                <td> @a.Balance</td>
+                <td> @a.Status</td>
+                <td> @a.LastUpdated.Date.ToShortDateString()</td>
+
+
+                <td>
+                    @Html.ActionLink("Delete", "DeleteAccount", new { id = @a.AccountID })
+                </td>
+            </tr>
+            }
+        }
+    </table>
+}

@@ -1,0 +1,70 @@
+﻿@model IEnumerable<viewmodel3>
+@using X.PagedList
+@{
+    ViewData["Title"] = "ViewStatementbyAccID";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="alert-danger text-danger"><p>@ViewBag.ErrorMessage</p></div>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<button id="btnPdf" style="text-align:left" class="btn btn-info">Download PDF</button>
+
+
+<div id="pdfContainer" style="text-align:center;">
+    <style>
+        table {
+            font-family: arial,sans-serif;
+            border: 1px solid black;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th {
+            background-color: green;
+            color: white
+        }
+
+        td {
+            text-align: center
+        }
+    </style>
+
+    <h1>Statement</h1>
+
+    @if (Model != null)
+    {
+        <table class="table table-striped" id="pdf">
+
+            <tr>
+                <th >Date</th>
+                <th >Transaction</th>
+                <th >Account(ID-1)</th>
+                <th >Account(ID-2)</th>
+                <th >Amount</th>
+                <th >Account Balance</th>
+            </tr>
+
+            @foreach (viewmodel3 v in Model)
+            {
+                <tr>
+                    <td> @v.t.TranDate.ToShortDateString()</td>
+                    <td> @v.t.Transaction_Type</td>
+                    <td> @v.t.Account_ID</td>
+                    <td> @v.t.Account_ID_2</td>
+                    <td> @v.t.Amount</td>
+                    <td> @v.t.Balance</td>
+                </tr>
+            }
+        </table>
+    }
+  
+</div>
+
+<script type="text/javascript">
+    $("#btnPdf").click(function () {
+        var sHtml = $("#pdfContainer").html();
+        sHtml = sHtml.replace(/</g, "StrTag").replace(/>/g, "EndTag");
+        window.open('../Account/generatePDF?html=' + sHtml, '_blank');
+    });
+</script>

@@ -1,0 +1,59 @@
+﻿@page "{msg?}"
+@model RegisterModel
+@using System.Web
+@{ 
+    ViewData["Title"] = "Add New Employee";
+    ViewData["Success"] = HttpContext.Request.PathBase;
+}
+<div class="alert-success" id="success"></div>
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            <hr />
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Input.Email"></label>
+                <input asp-for="Input.Email" class="form-control" />
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Input.Password"></label>
+                <input asp-for="Input.Password" class="form-control" />
+                <span asp-validation-for="Input.Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Input.ConfirmPassword"></label>
+                <input asp-for="Input.ConfirmPassword" class="form-control" />
+                <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Input.Role"></label>
+                <select asp-for="Input.Role" class="form-control">
+                    <option asp-validation-for="Input.Role" class="form-text">Customer-Executive</option>
+                    <option asp-validation-for="Input.Role" class="form-text">Account-Executive</option>
+                    <option asp-validation-for="Input.Role" class="form-text">Cashier</option>
+                    <option asp-validation-for="Input.Role" class="form-text">Teller</option>
+                </select>
+            </div>
+            <button type="submit" class="btn btn-primary">Register</button>
+        </form>
+    </div>
+</div>
+<script type="text/javascript">
+    window.onload = function () {
+        console.log("page open:", window.location.pathname);
+        const success = new RegExp("success")
+        let isSuccess = success.test(window.location.pathname);
+        console.log("success page: ", isSuccess);
+        if (isSuccess) {
+            document.getElementById("success").innerHTML = "Employee registered successfully";
+        }
+    }
+</script>
+@section Scripts {
+    
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,52 @@
+﻿@model Account
+@{
+    ViewData["Title"] = "AddAccount";
+}
+
+<h1 >Add Account</h1>
+
+<form asp-action="AddAccount">
+    <table>
+        <tr>
+            <td>
+                <label asp-for="Customer_ID"></label>
+            </td>
+            <td>
+                <input type="number" asp-for="Customer_ID" placeholder="Enter Customer ID " />
+                <span asp-validation-for="Customer_ID"  class="text-danger"></span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label asp-for="Account_Type"></label>
+            </td>
+            <td>
+                @Html.DropDownList("Account_Type", new List<SelectListItem>
+           {
+               new SelectListItem{ Text="Checking", Value = "Checking" },
+               new SelectListItem{ Text="Savings", Value = "Savings"},
+           })
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label asp-for="Balance"></label>
+            </td>
+            <td>
+                <input type="number" asp-for="Balance" placeholder="Enter Deposit Amount " />
+                <span asp-validation-for="Balance"  class="text-danger"></span>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+
+                <input type="submit" value="Add Account" class="btn btn-info" />
+            </td>
+        </tr>
+    </table>
+
+    <a asp-controller="Account" asp-action="ViewAccountDetails" class="btn btn-info">Back to List</a>
+    <div class="alert-danger"><p>@ViewBag.M1</p></div>
+    <div class="alert-dismissible text-success"><p>@ViewBag.M3</p></div>
+</form>
+

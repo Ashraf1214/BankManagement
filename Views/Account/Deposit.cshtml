@@ -1,0 +1,78 @@
+﻿@model viewmodel3
+@{
+    ViewData["Title"] = "Deposit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Deposit</h1>
+@using (Html.BeginForm("Deposit", "Account", FormMethod.Post))
+{
+<table>
+    <tr>
+        <td>@Html.HiddenFor(d => d.a.ID)</td>
+    </tr>
+    <tr>
+        <td>@Html.HiddenFor(d => d.a.Customer_ID)</td>
+    </tr>
+    <tr>
+        <td>@Html.HiddenFor(d => d.a.Account_Status)</td>
+    </tr>
+    <tr>
+        <td>@Html.HiddenFor(d => d.a.Account_Type)</td>
+    </tr>
+    <tr>
+        <td>@Html.HiddenFor(d => d.a.Balance)</td>
+    </tr>
+    @*<tr>
+        <td>@Html.HiddenFor(d => d.a.Status_Last_Updated)</td>
+        </tr>*@
+
+    @*<tr>
+            <td>@Html.HiddenFor(d => d.t.ID)</td>
+        </tr>
+        <tr>
+            <td>@Html.HiddenFor(d => d.t.Account_ID)</td>
+        </tr>
+        <tr>
+            <td>@Html.HiddenFor(d => d.t.Account_ID_2)</td>
+        </tr>*@
+    <tr>
+        <td>@Html.HiddenFor(d => d.t.Transaction_Type)</td>
+    </tr>
+    <tr>
+        <td><label asp-for="t.Amount"></label></td>
+        <td>
+            <input type="number" asp-for="t.Amount" placeholder="Enter Amount" />
+            <span asp-validation-for="t.Amount"></span>
+        </td>
+        <td colspan="2"><input type="submit" value="Deposit" class="btn btn-info" /></td>
+    </tr>
+    @*<tr><td></td><td></td><td><a asp--controller="Account" asp-action="viewAsCashier" class="btn btn-info">Back to search</a></td></tr>*@
+    <tr><td></td><td></td><td>@Html.ActionLink("Reset", "Deposit", new { id = Model.a.ID }, new { @class = "btn btn-info" })</td></tr>
+    
+</table>
+
+<div class="alert-success text-success"><p>@ViewBag.Success</p></div>
+}
+<table class="table table-bordered table-striped">
+    @if (Model != null)
+    {
+    <tr>
+        <th>Account ID</th>
+        <th>Customer ID</th>
+        <th>Account</th>
+        <th>Balance</th>
+
+    </tr>
+        <tr>
+            <td>@Model.a.ID</td>
+            <td>@Model.a.Customer_ID</td>
+            <td>@Model.a.Account_Type</td>
+            <td>@Model.a.Balance</td>
+        </tr>
+       
+    }
+</table>
+
+
+

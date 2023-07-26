@@ -1,0 +1,69 @@
+﻿@model Account
+@{
+    ViewData["Title"] = "DeleteAccount";
+}
+
+<h1>Delete Account</h1>
+
+<form asp-action="DeleteAccount">
+    <table class="table table-striped">
+
+
+        <tr>
+            <th>ID</th>
+            <th>Customer ID</th>
+            <th>Account Type</th>
+            <th>Status</th>
+            <th>Last Updated</th>
+            <th>Balance</th>
+        </tr>
+
+        <tr>
+
+            <td>
+                @Model.ID
+                @Html.HiddenFor(a => a.ID)
+
+            </td>
+
+            <td>
+                @Model.Customer_ID
+                @Html.HiddenFor(a => a.Customer_ID)
+
+            </td>
+
+
+            <td>
+                @Model.Account_Type
+                @Html.HiddenFor(a => a.Account_Type)
+            </td>
+
+
+            <td>
+                @Model.Account_Status
+                @Html.HiddenFor(a => a.Account_Status)
+            </td>
+
+
+            <td>
+                @Model.Status_Last_Updated
+                @Html.HiddenFor(a => a.Status_Last_Updated)
+            </td>
+
+
+            <td>
+                @Model.Balance
+                @Html.HiddenFor(a => a.Balance)
+            </td>
+        </tr>
+
+
+    </table>
+
+    <input type="submit" value="Confirm Delete" class="btn btn-info" />
+    <a asp-controller="Account" asp-action="ViewModel2" class="btn btn-info">Cancel</a>
+
+    <div class="alert-danger"><p>@ViewBag.M2</p></div>
+    <div class="alert-dismissible text-success"><p>@ViewBag.M3</p></div>
+</form>
+

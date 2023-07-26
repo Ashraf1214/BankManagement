@@ -1,0 +1,29 @@
+﻿@model Transaction
+@{
+    ViewData["Title"] = "addTransaction";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>addTransaction</h1>
+@using (Html.BeginForm("addTransaction", "Account", FormMethod.Post))
+{
+<table>
+    <tr>
+        <td>@Html.LabelFor(a => a.Account_ID)</td>
+        <td>@Html.TextBoxFor(a => a.Account_ID)</td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(a => a.Account_ID_2)</td>
+        <td>@Html.TextBoxFor(a => a.Account_ID_2)</td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(a => a.Transaction_Type)</td>
+        <td>@Html.TextBoxFor(a => a.Transaction_Type)</td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(a => a.Amount)</td>
+        <td>@Html.TextBoxFor(a => a.Amount)</td>
+
+<tr><td><button type="submit" value="add">Add Transaction</button> /></td></tr>
+</table>
+}

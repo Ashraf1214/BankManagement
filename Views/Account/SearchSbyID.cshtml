@@ -1,0 +1,47 @@
+﻿@model viewmodelDate
+@{
+    ViewData["Title"] = "SearchSbyID";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Enter Details</h1>
+@using (Html.BeginForm("ViewStatementbyAccID", "Account", FormMethod.Post, new { }))
+{
+<table>
+    <tr>
+        <td><label asp-for="ID"></label></td>
+        <td>
+            <input type="number" asp-for="ID" placeholder="Enter ID" value="" />
+            <span asp-validation-for="e"></span>
+        </td>
+    </tr>
+    <tr>
+        <td><label asp-for="e"></label></td>
+        <td>
+            <input type="date" asp-for="e" value="@DateTime.Now" />
+            <span asp-validation-for="e"></span>
+        </td>
+    </tr>
+    <tr>
+        <td><label asp-for="d"></label></td>
+        <td>
+            <input type="date" asp-for="d" value="@DateTime.Now" />
+            <span asp-validation-for="d"></span>
+        </td>
+    </tr>
+    <tr>
+        <td><label asp-for="count"></label></td>
+        <td>
+            <input type="number" asp-for="count" value=""/>
+            <span asp-validation-for="count"></span>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2"><input type="submit" value="Search" class="btn btn-info" /></td>
+    </tr>
+</table>
+
+
+
+
+}

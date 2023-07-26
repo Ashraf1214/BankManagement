@@ -1,0 +1,149 @@
+﻿@model ViewAccountDetails2VM
+@{
+    ViewData["Title"] = "CustomerAcct";
+}
+
+
+<a asp-controller="Account" asp-action="AddAccount" style="margin-right: 1rem;">Add New Account</a>
+<a asp-controller="Account" asp-action="ViewModel2" style="margin-right: 1rem;">Delete</a>
+
+<div class="alert-danger"><p>@ViewBag.Error</p></div>
+<div class="alert-success"><p>@ViewBag.Success</p></div>
+
+
+<h1 style="margin-top: 1rem;">Customer Accounts</h1>
+
+<div class="text-center">
+    <div id="search-bar" style="white-space:nowrap; margin-bottom:2rem">
+        <form asp-action="ViewAccountDetails" id="viewAll" style="display:inline-block">
+            <input type="submit" value="Search" class="btn btn-info" />
+        </form>
+        <form asp-action="ViewAccountByID" id="viewByID" style="display:none">
+            <label asp-for="ID"></label>
+            <input type="number" asp-for="ID" placeholder="Enter ID" />
+            <span asp-validation-for="ID"></span>
+            <input type="submit" value="Search" class="btn btn-info" />
+        </form>
+        <form asp-action="ViewAccountBySSN" id="viewBySSN" style="display:none">
+            <label asp-for="SSN"></label>
+            <input type="number" asp-for="SSN" placeholder="Enter SSN" />
+            <span asp-validation-for="SSN"></span>
+            <input type="submit" value="Search" class="btn btn-info" />
+        </form>
+        <label for="filterBy">Filter By:</label>
+        <select id="filterBy" name="filterBy">
+            <!option value='viewAll' @{if (ViewBag.FilterBy.Equals("viewAll")) { <text> selected</text>}}>View All</!option>
+            <!option value='viewByID' @{if (ViewBag.FilterBy.Equals("viewByID")) { <text> selected</text>}}>ID</!option>
+            <!option value='viewBySSN' @{if (ViewBag.FilterBy.Equals("viewBySSN")) { <text> selected</text>}}>SSN</!option>
+        </select>
+    </div>
+    <table class="table table-striped">
+        <tr class=".thead-dark">
+            <th>Customer ID</th>
+            <th>Account ID</th>
+            <th>Name</th>
+            <th>Account Type</th>
+            <th>Status</th>
+            <th>Last Updated</th>
+        </tr>
+
+        @foreach (ViewAccountDetailsVM a in Model.PaginatedAccounts())
+        {
+            @if (a.Status != "Soft Delete")
+            {
+                <tr>
+                    <td> @a.CustomerID</td>
+                    <td> @a.AccountID</td>
+                    <td> @a.Name</td>
+                    <td> @a.AccountType</td>
+                    <td> @a.Status</td>
+                    <td> @a.LastUpdated.Date.ToShortDateString()</td>
+                    @*<td>
+                        @Html.ActionLink("Edit", "Update", new { id = a.AccountID })
+                    </td>*@
+                    @*<td>
+                        @Html.ActionLink("Delete", "DeleteCustomer", new { id = a.AccountID })
+                    </td>*@
+                </tr>
+            }
+        }
+    </table>
+    <ul class="pagination">
+        @for (int i = 1; i <= Model.PageCount(); i++)
+        {
+            <li class="@(i == Model.CurrentPage ? "page-item active" : "page-item")">
+                <a class="page-link" href="@Url.Action("ViewAccountDetails", new { page = i })">@i</a>
+            </li>
+        }
+    </ul>
+</div>
+
+
+<script type="text/javascript">
+    let page = 1;
+    function showFilter(value) {
+        console.log("value: ", value);
+        switch (value) {
+            case 'viewAll':
+                console.log("One thing going right today");
+                document.getElementById("viewAll").style = "display:inline-block"
+                document.getElementById("viewByID").style = "display:none";
+                document.getElementById("viewBySSN").style = "display:none";
+                break;
+            case 'viewByID':
+                document.getElementById("viewAll").style = "display:none";
+                document.getElementById("viewByID").style = "display:inline-block";
+                document.getElementById("viewBySSN").style = "display:none";
+                break;
+            case 'viewBySSN':
+                document.getElementById("viewAll").style = "display:none";
+                document.getElementById("viewByID").style = "display:none";
+                document.getElementById("viewBySSN").style = "display:inline-block";
+                break;
+            default:
+                console.log("not right");
+                document.getElementById("viewAll").style = "display:inline-block";
+                document.getElementById("viewByID").style = "display:none";
+                document.getElementById("viewBySSN").style = "display:none";
+                break;
+
+        }
+    }
+
+    window.onload = function () {
+        console.log("page open: ", '@Html.Raw(ViewBag.filterBy)');
+
+        this.showFilter('@Html.Raw(ViewBag.filterBy)');
+    }
+
+    document.getElementById("filterBy").addEventListener("change", function(){
+        console.log('Selected ', this.value);
+        switch (this.value) {
+            case 'viewAll':
+                console.log('In case 1');
+                document.getElementById("viewAll").style = "display:inline-block";
+                document.getElementById("viewByID").style = "display:none";
+                document.getElementById("viewBySSN").style = "display:none";
+                break;
+            case 'viewByID':
+                console.log('In case 2');
+                document.getElementById("viewAll").style = "display:none";
+                document.getElementById("viewByID").style = "display:inline-block";
+                document.getElementById("viewBySSN").style = "display:none";
+                break;
+            case 'viewBySSN':
+                console.log('In case 3');
+                document.getElementById("viewAll").style = "display:none";
+                document.getElementById("viewByID").style = "display:none";
+                document.getElementById("viewBySSN").style = "display:inline-block";
+                break;
+            default:
+                console.log('default');
+                document.getElementById("viewAll").style = "display:inline-block";
+                document.getElementById("viewByID").style = "display:none";
+                document.getElementById("viewBySSN").style = "display:none";
+                break;
+        }
+    });
+</script>
+

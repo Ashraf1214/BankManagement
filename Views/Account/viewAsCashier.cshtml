@@ -1,0 +1,42 @@
+﻿@model ViewAccountDetailsVM
+@{
+    ViewData["Title"] = "viewAsCashier";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Enter Detail</h1>
+@using (Html.BeginForm("result", "Account", FormMethod.Post, new { }))
+{
+<div class="text-center">
+    <table>
+        <tr>
+            <td><label asp-for="AccountID"></label></td>
+            <td>
+                <input type="number" asp-for="AccountID" placeholder="Enter ID" value="" />
+                <span asp-validation-for="AccountID"></span>
+            </td>
+        </tr>
+        <tr>
+            <td><label asp-for="CustomerID"></label></td>
+            <td>
+                <input type="number" asp-for="CustomerID" value="" />
+                <span asp-validation-for="CustomerID"></span>
+            </td>
+        </tr>
+        <tr>
+            <td><label asp-for="SSN"></label></td>
+            <td>
+                <input type="number" asp-for="SSN" value="" />
+                <span asp-validation-for="SSN"></span>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><input type="submit" value="Search" class="btn btn-info" /></td>
+        </tr>
+    </table>
+</div>
+
+
+
+}
+

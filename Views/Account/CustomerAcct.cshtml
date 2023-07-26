@@ -1,0 +1,42 @@
+﻿@model IEnumerable<ViewAccountDetailsVM>
+@{
+    ViewData["Title"] = "CustomerAcct";
+}
+
+
+
+<a asp-controller="Account" asp-action="AddAccount" style="margin-right: 1rem;">Add New Account</a>
+<a asp-controller="Account" asp-action="Search" style="margin-right: 1rem;">Search</a>
+<a asp-controller="Account" asp-action="ViewAccountDetailsVM" style="margin-right: 1rem;">Delete</a>
+
+
+<h1 style="margin-top: 1rem;">Customer Accounts</h1>
+
+
+
+<table class="table table-striped">
+    <tr>
+        <th>Customer ID</th>
+        <th>Account ID</th>
+        <th>Name</th>
+        <th>Account Type</th>
+        <th>Status</th>
+        <th>Last Updated</th>
+    </tr>
+
+    @foreach (ViewAccountDetailsVM a in Model)
+    {
+        @if (a.Status != "Soft Delete")
+        {
+            <tr>
+                <td> @a.CustomerID</td>
+                <td> @a.AccountID</td>
+                <td> @a.Name</td>
+                <td> @a.AccountType</td>
+                <td> @a.Status</td>
+                <td> @a.LastUpdated.Date.ToShortDateString()</td>
+            </tr>
+        }
+    }
+</table>
+

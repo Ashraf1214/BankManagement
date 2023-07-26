@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Account>
+@{
+    ViewData["Title"] = "ViewAccounts";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>All Accounts</h1>
+
+<div class="text-center">
+    <table class="table table-striped">
+        <tr>
+            <th>Account ID</th>
+            <th>Customer ID</th>
+            <th>Account type</th>
+            <th>Balance</th>
+        </tr>
+        @foreach (Account a in Model)
+        {
+            <tr>   
+                <td>@a.ID</td>
+                <td>@a.Customer_ID</td>
+                <td>@a.Account_Type</td>
+                <td>@a.Balance</td>
+                
+
+            </tr>
+        }
+    </table>
+</div>
+

@@ -1,0 +1,37 @@
+﻿@model ViewCustomerAccountsVM
+@{
+    ViewData["Title"] = "User Accounts";
+}
+
+<h1>Showing accounts for @Model.CustomerName</h1>
+<h4 style="color:gray; margin-bottom: 1rem">Customer ID: @Model.CustomerID</h4>
+<div class="alert-danger"><p>@ViewBag.Error</p></div>
+
+<a asp-controller="Customer" asp-action="ViewCustomers" class="btn btn-info">Back to List</a>
+
+@if (Model.CustomerAccounts != null)
+{
+    <table class="table table-striped">
+        <tr>
+            <th>Account ID</th>
+            <th>Account Type</th>
+            <th>Balance</th>
+            <th>Status</th>
+            <th>Last Updated</th>
+        </tr>
+
+        @foreach (ViewAccountDetailsVM a in Model.CustomerAccounts)
+        {
+            <tr>
+                <td> @a.AccountID</td>
+                <td> @a.AccountType</td>
+                <td> @a.Balance</td>
+                <td> @a.Status</td>
+                <td> @a.LastUpdated.Date.ToShortDateString()</td>
+                
+            </tr>
+
+        }
+        
+    </table>
+}

@@ -1,0 +1,43 @@
+﻿@model ViewAccountDetailsVM
+@{
+    ViewData["Title"] = "ViewModel2";
+}
+
+
+<h2>Search for Account Based on either Customer ID or SSN</h2>
+
+<div class="alert-danger"><p>@ViewBag.Error</p></div>
+<form asp-action="CID">
+    <table>
+        <tr>
+            <td>
+                <label asp-for="CustomerID"></label>
+            </td>
+            <td>
+                <input type="number" asp-for="CustomerID" placeholder="Enter Customer ID" />
+                <span asp-validation-for="CustomerID" class="text-danger"></span>
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <label asp-for="SSN"></label>
+            </td>
+            <td>
+                <input type="number" asp-for="SSN" placeholder="Enter SSN" />
+                <span asp-validation-for="SSN" class="text-danger"></span>
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <input type="Submit" value="Search" class="btn btn-info" />
+            </td>
+        </tr>
+        
+    </table>
+    </form>
+<table><tr><td><a asp-controller="Account" asp-action="ViewAccountDetails" class="btn btn-info">Back to List</a></td></tr></table>    
+
+
+

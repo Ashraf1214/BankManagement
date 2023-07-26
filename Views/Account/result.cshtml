@@ -1,0 +1,50 @@
+﻿
+@model IEnumerable<ViewAccountDetailsVM>
+@{
+    ViewData["Title"] = "result";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+<div class="text-center">
+    <div class="alert-danger text-danger"><p>@ViewBag.Error1</p></div>
+    <div class="alert-danger text-danger"><p>@ViewBag.Error2</p></div>
+    <div class="alert-danger text-danger"><p>@ViewBag.Error3</p></div>
+</div>
+    @if (Model != null)
+    {
+        <div class="text-center">
+            <table class="table table-striped">
+                <tr>
+                    <th>Account ID</th>
+                    <th>Customer ID</th>
+                    <th>Account Type</th>
+                    <th>Balance</th>
+                    <th>Status</th>
+                    <th>Last Updated</th>
+                    <th colspan="3">Actions</th>
+                </tr>
+
+                @foreach (ViewAccountDetailsVM a in Model)
+                {
+                    @if (a.Status != "Soft Delete")
+                    {
+                        <tr>
+                            <td> @a.AccountID</td>
+                            <td> @a.CustomerID</td>
+                            <td> @a.AccountType</td>
+                            <td> @a.Balance</td>
+                            <td> @a.Status</td>
+                            <td> @a.LastUpdated.Date.ToShortDateString()</td>
+
+
+                            <td>@Html.ActionLink("Deposit", "Deposit", new { id = a.AccountID }, new { @class = "btn btn-info" })</td>
+                            <td>@Html.ActionLink("Withdraw", "Withdraw", new { id = a.AccountID }, new { @class = "btn btn-info" })</td>
+                            <td>@Html.ActionLink("Transfer", "Transfer", new { id = a.AccountID }, new { @class = "btn btn-info" })</td>
+                        </tr>
+                    }
+                }
+            </table>
+        </div>
+    }
+

@@ -1,0 +1,105 @@
+﻿@model Customer
+@{
+    ViewData["Title"] = "Update Customer";
+}
+
+
+<style>
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+</style>
+
+<h1>Update Customer</h1>
+<div class="alert-success"><p>@ViewBag.Success</p></div>
+<div class="alert-danger"><p>@ViewBag.Error</p></div>
+
+<form asp-action="UpdateCustomer">
+    @Html.HiddenFor(x => x.ID)
+    @Html.HiddenFor(x => x.SSN)
+    <table>
+        <tr>
+            <td>
+                <label asp-for="ID"></label>
+            </td>
+            <td>
+                @Model.ID
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label asp-for="Name"></label>
+            </td>
+            <td>
+                <input type="text" asp-for="Name" value="@Model.Name" />
+                <span asp-validation-for="Name" class="text-danger" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label asp-for="Age"></label>
+            </td>
+            <td>
+                <input type="number" asp-for="Age" value="@Model.Age" />
+                <span asp-validation-for="Age" class="text-danger" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label asp-for="Address_1"></label>
+            </td>
+            <td>
+                <input type="text" asp-for="Address_1" value="@Model.Address_1" />
+                <span asp-validation-for="Address_1" class="text-danger" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label asp-for="Address_2"></label>
+            </td>
+            <td>
+                <input type="text" asp-for="Address_2" value="@Model.Address_2" />
+                <span asp-validation-for="Address_2" class="text-danger" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label asp-for="City"></label>
+            </td>
+            <td>
+                <input type="text" asp-for="City" value="@Model.City" />
+                <span asp-validation-for="City" class="text-danger" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label asp-for="State"></label>
+            </td>
+            <td>
+                <select asp-for="State" value="@Model.City">
+                    <option asp-validation-for="State">MI</option>
+                    <option asp-validation-for="State">NC</option>
+                    <option asp-validation-for="State">SC</option>
+                    <option asp-validation-for="State">CA</option>
+                    <option asp-validation-for="State">OH</option>
+                    <option asp-validation-for="State">TN</option>
+                    <option asp-validation-for="State">NY</option>
+                    <option asp-validation-for="State">MA</option>
+                    <option asp-validation-for="State">WA</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <input type="submit" value="Update" class="btn btn-info" />
+            </td>
+        </tr>
+    </table>
+</form>
+<a asp-controller="Customer" asp-action="ViewCustomers" class="btn btn-info">Back to List</a>
+
+
+
+
